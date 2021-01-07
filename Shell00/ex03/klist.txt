@@ -1,0 +1,5 @@
+Credentials cache: API:9B5FFBA0-967B-40D4-B9AE-980877FF1904
+        Principal: myevdoki@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Nov 24 20:27:52 2020  Nov 25 06:27:42 2020  krbtgt/42YEREVAN.AM@42YEREVAN.AM
