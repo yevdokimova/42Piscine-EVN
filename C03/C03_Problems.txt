@@ -1,0 +1,23 @@
+Exercise 00 : ft_strcmp
+Reproduce the behavior of the function strcmp (man strcmp).
+Allowed functions: None
+
+Exercise 01 : ft_strncmp
+Reproduce the behavior of the function strncmp (man strncmp).
+Allowed functions: None
+
+Exercise 02 : ft_strcat
+Reproduce the behavior of the function strcat (man strcat).
+Allowed functions: None
+
+Exercise 03 : ft_strncat
+Reproduce the behavior of the function strncat (man strncat).
+Allowed functions: None
+
+Exercise 04 : ft_strstr
+Reproduce the behavior of the function strstr (man strstr).
+Allowed functions: None
+
+Exercise 05 : ft_strlcat
+Reproduce the behavior of the function strlcat (man strlcat).
+Allowed functions: None
