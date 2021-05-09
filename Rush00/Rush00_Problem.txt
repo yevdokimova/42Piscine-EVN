@@ -1,0 +1,50 @@
+Main subject
+Files to turn in: main.c, ft_puthar.c, rush04.c
+Allowed functions: write
+Remarks: n/a
+
+Example of main.c:
+int		main()
+{
+	rush(5, 5);
+	return ();
+}
+
+You must therefore create the function rush taking two variables of type in as arguments, 
+named respectively x and y. Your function rush should display (on-screen) a rectangle of x characters for width,
+and y characters for length. Your main will be modified during defense, to check if you've handled everything
+you're supposed to.
+
+rush(5, 3) should display:
+$>./a.out
+ABBBC
+B   B
+CBBBA
+$>
+
+rush(5, 1) should display:
+$>./a.out
+ABBBC
+$>
+
+rush(1, 1) should display:
+$>./a.out
+A
+$>
+
+rush(1, 5) should display:
+$>./a.out
+A
+B
+B
+B
+C
+$>
+
+rush(4, 4) should display:
+$>./a.out
+ABBC
+B  B
+B  B
+CBBA
+$>
