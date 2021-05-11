@@ -13,7 +13,7 @@ Following are the short descriptions of the projects:
 **C00** - Introduction to C  
 **C01** - More Introduction to C  
 **C02** - Control Flow/Loops   
-**c03** - Review of C material  
+**C03** - Review of C material  
 **C04** - Pointers and arrays  
 **C05** - Recursion and Recursive Backtracking   
 **C06** - Program arguments  
@@ -22,4 +22,4 @@ Detailed description of problems/exersices are in folders.
 
 Luckily, I passed the Piscine and got into 42Yerevan.
 
-_P.s. Copy/Pasting exercises without understanding are bad, for you and for the wellness of the Piscine._
+_P.s. Copy/Pasting exercises without understanding are bad for you and for the wellness of the Piscine._
