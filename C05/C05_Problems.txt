@@ -1,0 +1,51 @@
+Exercise 00 : ft_iterative_factorial
+Create an iterated function that returns a number. This number is the result of a factorial operation based 
+on the number given as a parameter. If the argument is not valid the function should return 0.
+Overflows must not be handled, the function return will be undefined.
+Allowed functions: None
+
+Exercise 01 : ft_recursive_factorial
+Create a recursive function that returns the factorial of the number given as a parameter. 
+If the argument is not valid the function should return 0.
+Overflows must not be handled, the function return will be undefined.
+Allowed functions: None
+
+Exercise 02 : ft_iterative_power
+Create an iterated function that returns the value of a power applied to a number.
+An power lower than 0 returns 0. Overflows must not be handled. We’ve decided that 0 power 0 will returns 1.
+Allowed functions: None
+
+Exercise 03 : ft_recursive_power
+Create a recursive function that returns the value of a power applied to a number. 
+Overflows must not be handled, the function return will be undefined. We’ve decided that 0 power 0 will returns 1.
+Allowed functions: None
+
+Exercise 04 : ft_fibonacci
+Create a function ft_fibonacci that returns the n-th element of the Fibonacci sequence, 
+the first element being at the 0 index. We’ll consider that the Fibonacci sequence starts like this: 0, 1, 1, 2.
+Overflows must not be handled, the function return will be undefined.
+If the index is less than 0, the function should return -1.
+Allowed functions: None
+
+Exercise 05 : ft_sqrt
+Create a function that returns the square root of a number (if it exists), 
+or 0 if the square root is an irrational number.
+Allowed functions: None
+
+Exercise 06 : ft_is_prime
+Create a function that returns 1 if the number given as a parameter is a prime number, and 0 if it isn’t.
+Allowed functions: None
+
+Exercise 07 : ft_find_next_prime
+Create a function that returns the next prime number greater or equal to the number given as argument.
+Allowed functions: None
+
+Exercise 08 : The Ten Queens
+Create a function that displays all possible placements of the ten queens on a chessboard 
+which would contain ten columns and ten lines, without them being able 
+to reach each other in a single move, and returns the number of possibilities.
+Recursivity is required to solve this problem.
+The sequence goes from left to right. The first digit represents the first Queen’s position in the first column 
+(the index starting from 0). The Nth digit represents the Nth Queen’s position in the Nth column.
+The return value must be the total number of displayed solutions.
+Allowed functions: write
